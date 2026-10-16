@@ -1,0 +1,30 @@
+# Data manipulation and numerical computing
+numpy
+pandas
+
+# Data visualization and EDA
+matplotlib
+seaborn
+
+# Image processing
+opencv-python-headless
+Pillow
+
+# Machine Learning and Deep Learning
+scikit-learn
+tensorflow
+
+# Interactive notebooks
+jupyterlab
+ipykernel
+
+# Web application
+streamlit
+
+# Configuration and utilities
+PyYAML
+tqdm
+
+# Testing
+pytest
+
