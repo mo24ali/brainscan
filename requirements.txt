@@ -14,6 +14,10 @@ Pillow
 scikit-learn
 tensorflow
 
+# Model visualization (plot_model)
+pydot
+# optionnel (systeme) : apt-get install graphviz  -> binaire `dot` pour plot_model
+
 # Interactive notebooks
 jupyterlab
 ipykernel
