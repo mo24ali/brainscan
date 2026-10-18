@@ -1,0 +1,34 @@
+# Data manipulation and numerical computing
+numpy
+pandas
+
+# Data visualization and EDA
+matplotlib
+seaborn
+
+# Image processing
+opencv-python-headless
+Pillow
+
+# Machine Learning and Deep Learning
+scikit-learn
+tensorflow
+
+# Model visualization (plot_model)
+pydot
+# optionnel (systeme) : apt-get install graphviz  -> binaire `dot` pour plot_model
+
+# Interactive notebooks
+jupyterlab
+ipykernel
+
+# Web application
+streamlit
+
+# Configuration and utilities
+PyYAML
+tqdm
+
+# Testing
+pytest
+
