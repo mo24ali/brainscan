@@ -1,0 +1,14 @@
+{
+  "test_loss": 0.46271806955337524,
+  "test_accuracy": 0.8334519863128662,
+  "image_size": 224,
+  "batch_size": 32,
+  "epochs_trained": 15,
+  "training_time_sec": 2142.0,
+  "classes": [
+    "glioma",
+    "meningioma",
+    "notumor",
+    "pituitary"
+  ]
+}
